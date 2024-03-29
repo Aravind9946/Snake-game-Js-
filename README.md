@@ -7,8 +7,7 @@ This is a simple Snake game created using HTML, CSS, and JavaScript.
 The Snake game is a classic game where the player controls a snake that moves around the game area, eating food to grow longer. The objective is to eat as much food as possible without colliding with the walls or the snake's own body.
 
 ## Try it
-Visit the link for playing the game 
-[] https://aravind9946.github.io/Snake-game-Js-/
+Visit the link for playing the game : https://aravind9946.github.io/Snake-game-Js-/
 
 ## Features
 
