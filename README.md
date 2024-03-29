@@ -1,1 +1,14 @@
-# Snake-game-Js-
+# Snake Game
+
+This is a simple Snake game created using HTML, CSS, and JavaScript.
+
+## Description
+
+The Snake game is a classic game where the player controls a snake that moves around the game area, eating food to grow longer. The objective is to eat as much food as possible without colliding with the walls of the game area or the snake's own body.
+
+## Features
+
+- Score tracking: Keep track of the player's score as they eat food pellets.
+- Highscore tracking: Keep tracking of the player's high score untill you close the game window or refreshing the page.
+- Game Over: Display a Game Over message when the snake collides with the walls or its own body.
+- Restart: Allow the player to restart the game after Game Over.
